@@ -1,10 +1,10 @@
-class _07_SuperKeyword01 {
+class _07_SuperKeyword {
     int getCorner(){
         return 4;
     }
 }
 
-class Rectangle extends _07_SuperKeyword01{
+class Rectangle extends _07_SuperKeyword{
     int getCorner(){
         return 0;
     }

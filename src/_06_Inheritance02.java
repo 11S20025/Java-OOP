@@ -1,2 +1,2 @@
-public class _06_Inherintance1 {
+public class _06_Inheritance02 {
 }

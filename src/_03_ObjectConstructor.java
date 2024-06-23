@@ -1,4 +1,4 @@
-public class _04_ObjectConstructor {
+public class _03_ObjectConstructor {
     public static void main(String[] args) {
 
         var person1 = new _03_Constructor("Anton", "Siborongborong");
