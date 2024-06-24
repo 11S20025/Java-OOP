@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d314a299-331a-408e-b6f1-04eb74728a6f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/_09_Polymorphism/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Polymorphism/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Polymorphism/polymorphismApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_09_Polymorphism/vicePrecident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_variableHiding/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_10_variableHiding/ParentApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Abstract/AbstactApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Abstract/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_11_Abstract/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_AbstractMethod/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_AbstractMethod/AnimalApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_12_AbstractMethod/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_GetterSetter/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_13_GetterSetter/CategoryApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_01_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_01_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_02_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_02_Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_Constructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_Constructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_03_ObjectConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_03_ObjectConstructor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_ConstructorOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ConstructorOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_04_ObjectConstructorOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_04_ObjectConstructorOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Inheritance01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Inheritance01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Inheritance02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Inheritance02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_InheritanceObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_InheritanceObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_07_SuperKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_SuperKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_07_SuperKeywordObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_07_SuperKeywordObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_08_SuperConstructor01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_SuperConstructor01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_08_SuperConstructor02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_SuperConstructor02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_08_SuperConstructorObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_08_SuperConstructorObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_Inheritance02.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,49 +62,79 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._08_SuperConstructorObject">
-    <configuration name="_04_ObjectConstructorOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_ObjectConstructorOverloading" />
+  <component name="RunManager" selected="Application.CategoryApp">
+    <configuration name="AbstactApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_Abstract.AbstactApp" />
       <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_11_Abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_thisKeywordObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_thisKeywordObject" />
+    <configuration name="AnimalApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_AbstractMethod.AnimalApp" />
       <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_12_AbstractMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_06_InheritanceObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_InheritanceObject" />
+    <configuration name="CategoryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_13_GetterSetter.CategoryApp" />
       <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_13_GetterSetter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_07_SuperKeywordObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_SuperKeywordObject" />
+    <configuration name="ParentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_variableHiding.ParentApp" />
       <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_10_variableHiding.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_08_SuperConstructorObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_SuperConstructorObject" />
+    <configuration name="polymorphismApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_09_Polymorphism.polymorphismApp" />
       <module name="Java-OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_09_Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._08_SuperConstructorObject" />
-        <item itemvalue="Application._07_SuperKeywordObject" />
-        <item itemvalue="Application._06_InheritanceObject" />
-        <item itemvalue="Application._05_thisKeywordObject" />
-        <item itemvalue="Application._04_ObjectConstructorOverloading" />
+        <item itemvalue="Application.CategoryApp" />
+        <item itemvalue="Application.AnimalApp" />
+        <item itemvalue="Application.AbstactApp" />
+        <item itemvalue="Application.ParentApp" />
+        <item itemvalue="Application.polymorphismApp" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +150,9 @@
       <workItem from="1718689938513" duration="4000" />
       <workItem from="1719048486744" duration="1447000" />
       <workItem from="1719146464948" duration="5140000" />
-      <workItem from="1719160936966" duration="315000" />
+      <workItem from="1719160936966" duration="614000" />
+      <workItem from="1719190526365" duration="9239000" />
+      <workItem from="1719232230456" duration="3664000" />
     </task>
     <servers />
   </component>
